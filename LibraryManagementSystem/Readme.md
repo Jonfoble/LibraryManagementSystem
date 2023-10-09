@@ -30,3 +30,4 @@ Troubleshooting:
 Ensure all Python files are placed in the same directory.
 Ensure no files are missing or corrupted.
 Check that your Python version is compatible with the system.
+![Diagram](https://github.com/Jonfoble/LibraryManagementSystem/assets/91648268/3ad374e6-9322-4794-83f3-41fa32ae2adf)
